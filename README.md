@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miltos
-- 👀 I’m interested in becoming a developer
+- 👀 I’m a Junior Developer
 - 🌱 I’m currently learning C#
 - 📫 Reach me at mrbrianakias@gmail.com
 
